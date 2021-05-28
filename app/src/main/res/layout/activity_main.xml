@@ -22,7 +22,7 @@
         android:id="@+id/button"
         android:layout_width="135dp"
         android:layout_height="75dp"
-        android:layout_gravity="right"
+        android:layout_gravity="center"
         android:layout_margin="16dp"
         android:text="Button"
         app:backgroundTint="#2e2be3"
